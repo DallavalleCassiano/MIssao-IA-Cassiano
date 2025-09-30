@@ -3,53 +3,53 @@
 
 const perguntas = [
     {
-        enunciado: "Pergunta?",
+        enunciado: "Pergunta 1 - Quem é o Melhor do Mundo no Futebol?",
         alternativas: [
             {
-                texto: " Texto/resposta",
-                afirmacao: " Afirmação ",
+                texto: "Cristiano Ronaldo dos Santos Aveiro",
+                afirmacao: "Você é uma pessoa ambiciosa e tem dedicação em tudo o que faz.",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Lionel Andrés Messi Cuccittini",
+                afirmacao: "Você valoriza o talento, trabalho duro e nunca desiste.",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: " Quem é o maior ídolo da seleção brasileira?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Neymar da Silva Santos Júnior",
+                afirmacao: "Você valoriza o impacto e habilidades.",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Edson Arantes do Nascimento (Pelé)",
+                afirmacao: " Você valoriza a história e conquistas.,",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: "Quem merece a bola de ouro 2025?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Masour Ousmane Dembélé",
+                afirmacao: "Você valoriza a criatividade e companheirismo. ",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Raphael Dias Belloli (Raphinha)",
+                afirmacao: " Você valoriza o trabalho duro e esforço.",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: " Você prefere qual tipo de Centroavante?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Karim Mostafa Benzema",
+                afirmacao: "Você prefere um atacante que participa da jogada.",
             },
             {
-                texto: " Texto/resposta ",
+                texto: "Robert Lewandowski",
                 afirmacao: " Afirmação ",
             }
         ]
