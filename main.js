@@ -50,20 +50,20 @@ const perguntas = [
             },
             {
                 texto: "Robert Lewandowski",
-                afirmacao: " Afirmação ",
+                afirmacao: "Você prefere um centroavante matador.",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: " Qual melhor goleiro que já passou pelo futebol?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: "Afirmação",
+                texto: "Manuel Peter Neuer ",
+                afirmacao: "Você prioriza conquistas e como atuou no futebol.",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Lev Ivanovich Yashin",
+                afirmacao: "Você prioriza atuações, qualidade e prêmios individuais.",
             }
         ]
     },
