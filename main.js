@@ -15,7 +15,7 @@ const perguntas = [
             },
             {
                 texto: "Lionel Andrés Messi Cuccittini",
-                afirmacao: "Você valoriza o talento, trabalho duro e nunca desiste.",
+                afirmacao: "Você valoriza o talento, trabalho duro e nunca desiste."
             }
         ]
     },
@@ -24,11 +24,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Neymar da Silva Santos Júnior",
-                afirmacao: "Você valoriza o impacto e habilidades.",
+                afirmacao: "Você valoriza o impacto e habilidades."
             },
             {
                 texto: "Edson Arantes do Nascimento (Pelé)",
-                afirmacao: " Você valoriza a história e conquistas.,",
+                afirmacao: " Você valoriza a história e conquistas.,"
             }
         ]
     },
@@ -41,7 +41,7 @@ const perguntas = [
             },
             {
                 texto: "Raphael Dias Belloli (Raphinha)",
-                afirmacao: " Você valoriza o trabalho duro e esforço.",
+                afirmacao: " Você valoriza o trabalho duro e esforço."
             }
         ]
     },
@@ -50,11 +50,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Karim Mostafa Benzema",
-                afirmacao: "Você prefere um atacante que participa da jogada.",
+                afirmacao: "Você prefere um atacante que participa da jogada."
             },
             {
                 texto: "Robert Lewandowski",
-                afirmacao: "Você prefere um centroavante matador.",
+                afirmacao: "Você prefere um centroavante matador."
             }
         ]
     },
@@ -63,11 +63,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Manuel Peter Neuer ",
-                afirmacao: "Você prioriza conquistas e como atuou no futebol.",
+                afirmacao: "Você prioriza conquistas e como atuou no futebol."
             },
             {
                 texto: " Lev Ivanovich Yashin",
-                afirmacao: "Você prioriza atuações, qualidade e prêmios individuais.",
+                afirmacao: "Você prioriza atuações, qualidade e prêmios individuais."
             }
         ]
     },
