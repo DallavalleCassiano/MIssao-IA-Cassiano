@@ -106,7 +106,7 @@ function respostaSelecionada(opcaoSelecionada){
 }
 
 function mostraResultado(){
-    caixaPerguntas.textContent = "Ao analisar sua opção de jogador, determinamos que você...";
+    caixaPerguntas.textContent = "Ao analisar sua escolha de jogador, determinamos que você...";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = " ";
 }
