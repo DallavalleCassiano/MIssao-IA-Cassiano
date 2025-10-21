@@ -90,7 +90,7 @@ function mostraAlternativas(){
             atual++
             mostraPergunta();
         })
-        caixaAlternativas.appendChild(botaoAlternativas)
+        caixaAlternativas.appendChild(botaoAlternativas);
     }
 }
 
